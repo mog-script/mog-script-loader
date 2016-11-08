@@ -4,5 +4,14 @@
   "main": "index.js",
   "dependencies": {
     "mog-script": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mog-script/mog-script-loader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mog-script/mog-script-loader/issues"
   }
 }
